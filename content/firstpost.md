@@ -6,7 +6,6 @@ Slug: my-super-post
 Author: TL
 Summary: Summ1
 
-
 #####
 This is the content of my super blog post.
 #####
